@@ -1,0 +1,16 @@
+.hero {
+  @extend .styleheros;
+}
+
+.hero2 {
+  @extend .styleheros;
+  background-image: url("../images/sonrienteotoño.jpg");
+}
+
+.styleheros {
+  background-image: url("../images/amigas\ sonrisa.jpg");
+  height: 20vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}

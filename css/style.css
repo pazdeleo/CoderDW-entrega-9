@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@100;300;400;500&family=Roboto:wght@100;300;400;500;700&display=swap");
+body {
+  background-color: beige; }
+
+.hero2 {
+  background-image: url("../images/sonrienteotoño.jpg"); }
+
+.styleheros, .hero, .hero2 {
+  background-image: url("../images/amigas sonrisa.jpg");
+  height: 20vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px; }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.titulos {
+  color: #eeb2da;
+  font-family: "Arima", cursive; }
+
+.encabezados {
+  color: #eeb2da;
+  font-family: "Arima", cursive; }
